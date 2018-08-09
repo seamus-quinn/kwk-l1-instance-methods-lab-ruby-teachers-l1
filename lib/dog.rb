@@ -1,7 +1,7 @@
 # dog.rb
 
 class Dog 
-  @bark
+  def bark
     puts "Woof!"
   end
 end
